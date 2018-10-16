@@ -4,7 +4,10 @@
   "private": true,
   "homepage": "https://github.com/h4nds0m3j4ck/nytreact",
   "dependencies": {
+    "@material-ui/core": "^3.2.2",
+    "@material-ui/icons": "^3.0.1",
     "gh-pages": "^2.0.1",
+    "mongoose": "^5.3.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
